@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ctrideployment/static/css/main.5ff27dfe.css",
-    "main.js": "/ctrideployment/static/js/main.f1771e9d.js",
+    "main.js": "/ctrideployment/static/js/main.1b5f5ebd.js",
     "static/js/787.e9aa3446.chunk.js": "/ctrideployment/static/js/787.e9aa3446.chunk.js",
     "static/media/CTRI_Logo.png": "/ctrideployment/static/media/CTRI_Logo.d03ba274dfcfe14ff5de.png",
     "static/media/Comprehensive-Services-Icon.png": "/ctrideployment/static/media/Comprehensive-Services-Icon.d2f0ffadb70c5e7a8778.png",
@@ -14,11 +14,11 @@
     "static/media/YoutubeIcon.svg": "/ctrideployment/static/media/YoutubeIcon.a9ce7b6f7486cdec58adc4829beaf9e9.svg",
     "static/media/FacebookIcon.svg": "/ctrideployment/static/media/FacebookIcon.fa8631ec17b730b54b61de6f7c294301.svg",
     "main.5ff27dfe.css.map": "/ctrideployment/static/css/main.5ff27dfe.css.map",
-    "main.f1771e9d.js.map": "/ctrideployment/static/js/main.f1771e9d.js.map",
+    "main.1b5f5ebd.js.map": "/ctrideployment/static/js/main.1b5f5ebd.js.map",
     "787.e9aa3446.chunk.js.map": "/ctrideployment/static/js/787.e9aa3446.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5ff27dfe.css",
-    "static/js/main.f1771e9d.js"
+    "static/js/main.1b5f5ebd.js"
   ]
 }
