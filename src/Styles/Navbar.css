@@ -1,0 +1,44 @@
+.NavigationBar {
+    padding: 50px 20px 50px 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background:transparent;
+    overflow: hidden;
+}
+
+.links{
+    display: flex;
+    flex-basis: 35%;
+    gap: 30px;
+    align-items: center;
+    font-size: 1.7rem;
+    font-family:Helvetica;
+    color: white;
+}
+.logo {
+    display: flex;
+    flex-basis: 50%;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover {
+    color: #e76203;
+    border: 2px solid #e76203;
+    padding: 0;
+}
+a:active{
+    border-bottom: 2px solid #e76203;
+}
+
+@media screen and (max-width: 768px) {
+    .NavigationBar {
+        display: none;
+    }
+}

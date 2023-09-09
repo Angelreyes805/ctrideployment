@@ -1,0 +1,137 @@
+.InternshipHero {
+        padding: 10px 10px 10px 10px;
+        margin: 50px 0 150px 0;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        background-color: transparent;
+        overflow: hidden;
+}
+
+.Buttons{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: left;
+    text-align: left;
+    gap: 10px;
+}
+
+.InternshipMVP {
+    padding: 10px 10px 10px 10px;
+    margin: 50px 0 150px 0;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+    overflow: hidden;
+}
+
+.InternshipCTA {
+    padding: 10px 10px 10px 10px;
+    margin: 50px 0 150px 0;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    background-color: transparent;
+    overflow: hidden;
+}
+
+.SubSection {
+    padding: 10px;
+    margin: 0 0 90px 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    vertical-align: baseline;
+    gap: 200px;
+    min-width: 100%;
+}
+
+.MainCTA{
+    padding: 10px;
+    border: 2px solid #e76203;
+    border-radius: 10px;
+    background: #e76203;
+    font-size: 1.4rem;
+    font-family: Helvetica, Arial;
+    font-weight: 700;
+    color:black;
+    display: inline;
+    cursor: pointer;
+}
+.GhostCTA{
+    padding: 10px;
+    border: 2px solid #e76203;
+    border-radius: 10px;
+    background: transparent;
+    font-size: 1.4rem;
+    font-family: Helvetica, Arial;
+    font-weight: 700;
+    color:white;
+    display: inline;
+    cursor: pointer;
+}
+
+.SectionH1 {
+    color: #E76203;
+    font-family: "Roboto", Sans-serif;
+    font-size: 3.6rem;
+    font-weight: 600;
+}
+
+.SectionH2{
+    color: #CBCBCB;
+    font-family: "Roboto", Sans-serif;
+    font-size: 2rem;
+    font-weight: 600;
+    line-height: 50px;
+}
+
+.CTAH1 {
+    color: #CBCBCB;
+    font-family: "Roboto", Sans-serif;
+    font-size: 3.6rem;
+    font-weight: 600;
+}
+
+.CTAH2 {
+    color: #E76203;
+    font-family: "Roboto", Sans-serif;
+    font-size: 3.6rem;
+    font-weight: 600;
+}
+
+.CTAH3 {
+    color: #CBCBCB;
+    font-family: "Roboto", Sans-serif;
+    font-size: 2rem;
+    font-weight: 600;
+    line-height: 50px;
+}
+
+.CTANumber {
+    color: #000000;
+    font-family: "Helvetica", Sans-serif;
+    font-size: 200px;
+    font-weight: bold;
+    -webkit-text-stroke-width: 1px;
+    stroke-width: 1px;
+    -webkit-text-stroke-color: #E76203;
+    stroke: #E76203;
+}
+
+.InternshipCTABox {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    max-width: 40%;
+}

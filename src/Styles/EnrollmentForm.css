@@ -1,0 +1,53 @@
+.EnrollmentForm {
+    position: fixed;
+    inset: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+  }
+
+.rowOne{
+    display:flex;
+    justify-content: start;
+    align-items: center;
+    gap: 50px;
+    margin: 0 0 70px 0;
+}
+.rowTwo{
+    display: block;
+    width: 100%;
+    margin: 0 0 70px 0;
+}
+
+label {
+    color: #8a8a8a;
+    font-family: Arial, 'Times New roman';
+    font-size: 2rem;
+}
+
+input {
+    width: 100%;
+    margin: 20px 0 20px 0;
+    padding: 10px;
+    font-size: 1.5rem;
+    background: #8a8a8a;
+    color: black;
+  }
+  
+button {
+    padding: 10px;
+    border: 2px solid #e76203;
+    border-radius: 10px;
+    background: #e76203;
+    font-size: 2rem;
+    font-family: Helvetica, Arial;
+    font-weight: 700;
+    color:black;
+    display: inline;
+    cursor: pointer;
+  }
+  

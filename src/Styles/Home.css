@@ -1,0 +1,249 @@
+.HeroSection {
+    padding: 50px 20px 50px 20px;
+    margin: 0 0 150px 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 100px; 
+    background-color: transparent;
+    overflow: hidden;
+}
+.ProblemSection {
+    padding: 50px 120px 50px 120px;
+    margin: 0 0 80px 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 150px; 
+    background-color: transparent;
+    overflow: hidden;
+}
+.ProblemContainer{
+    max-width: 800px;
+}
+.SolutionSection{
+    padding: 50px 120px 50px 120px;
+    margin: 0 0 80px 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 150px; 
+    background-color: transparent;
+    overflow: hidden;
+}
+.ShowFaceSection{
+    padding: 50px 120px 50px 120px;
+    margin: 0 0 80px 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 150px; 
+    background-color: transparent;
+    overflow: hidden;
+}
+.ShowFaceContainer{
+    max-width: 1000px;
+}
+.ShowFaceContainer2{
+    text-align: center;
+}
+.QuoteSection{
+    padding: 50px 120px 50px 120px;
+    margin: 0 0 80px 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: transparent;
+    overflow: hidden;
+    text-align: center;
+}
+.FinalCTASection {
+    padding: 120px 20px 120px 20px;
+    margin: 0 0 0 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 50px; 
+    background-color: transparent;
+    overflow: hidden;
+}
+.CTABox1 {
+    padding: 0 20px 20px 20px;
+    background-color: #001120;
+    border: 2px solid #e76203;
+    max-width: 600px;
+    max-height: 600px;
+    overflow:auto;
+}
+.CTABox {
+    padding: 0 20px 20px 20px;
+    background-color: #002347;
+    border: 2px solid #e76203;
+    max-width: 600px;
+    max-height: 600px;
+    overflow: auto;
+}
+
+.FunFact{
+    text-align: center;
+    margin: 0 0 120px 0;
+}
+h1{
+    color:white;
+    font-family: helvetica,arial;
+    font-size: 3.6rem;
+    font-weight: 600;
+    margin-bottom: 50px;
+}
+.h2Label {
+    color: #e76203;
+    font-family: Arial,'Times New Roman';
+    font-size: 3.6rem;
+    font-weight: 600;
+    line-height: 60px;
+    margin-bottom: 70px;
+}
+.h2LabelCTA {
+    color: White;
+    font-family: Arial,'Times New Roman';
+    font-size: 3.6rem;
+    font-weight: 600;
+    line-height: 60px;
+    margin-bottom: 70px;
+}
+.h2Quote{
+    color: #e76203;
+    font-family: Arial,'Times New Roman';
+    font-size: 3.6rem;
+    font-weight: 600;
+    line-height: 100px;
+    margin-bottom: 70px;
+}
+
+.pLabel {
+    color: #cbcbcb;
+    font-family: Arial,'Times New Roman';
+    font-size: 2rem;
+    font-weight: 600;
+    line-height: 70px;
+    margin-bottom: 70px;
+}
+h2{
+    color: #cbcbcb;
+    font-family: Arial,'Times New Roman';
+    font-size: 2rem;
+    font-weight: 600;
+    line-height: 50px;
+    margin-bottom: 70px;
+}
+p{
+    color:#cbcbcb;
+    font-family: Arial,'Times New Roman';
+    font-size: 1.4rem;
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+.FaceWrap{
+    border-radius: 50%;
+    overflow: hidden;
+    width: 300px;
+    height: 300px;
+    position:relative;
+}
+.FaceWrap img {
+    display: block;
+    margin: auto;
+    min-width: 100%;
+    min-height: 100%;
+    position: absolute;
+
+}
+.CTANudge{
+    display: inline;
+    margin: 5px 15px 0 0;
+    font-size: 1.4rem;
+    line-height: 50px;
+    color: #b2b2b2;
+}
+.MainCTA{
+    padding: 10px;
+    border: 2px solid #e76203;
+    border-radius: 10px;
+    background: #e76203;
+    font-size: 1.4rem;
+    font-family: Helvetica, Arial;
+    font-weight: 700;
+    color:black;
+    display: inline;
+    cursor: pointer;
+}
+.GhostCTA{
+    padding: 10px;
+    border: 2px solid #e76203;
+    border-radius: 10px;
+    background: transparent;
+    font-size: 1.4rem;
+    font-family: Helvetica, Arial;
+    font-weight: 700;
+    color:white;
+    display: inline;
+    cursor: pointer;
+}
+
+.MobileLogo {
+    padding: 50px 20px 20px 20px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+@media screen and (min-width: 781px) {
+    .MobileLogo {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 780px) {
+    .h2Label {
+        font-size: 3rem;
+        line-height: 70px;
+        margin-bottom: 60px;
+    }
+    .ProblemImage{
+        display: flex;
+        justify-content: center;
+        align-content: center;
+    }
+    .FunFact {
+        padding: 20px;
+        margin: 0 0 60 0;
+    }
+    .pLabel {
+        margin: 20px 0 50px 0;
+        font-size:1.8rem;
+        line-height:40px
+    }
+    .ProblemSection{
+        display: flex;
+        flex-direction: column;
+        padding: 0 30px 0 30px;
+        margin: 0 0 120px 0;
+    }
+    .SolutionSection {
+        display: flex;
+        padding: 0 30px 0 30px;
+        margin: 0 0 120px 0;
+    }
+    .ShowFaceSection{
+        display: flex;
+        flex-direction: row;
+        padding: 0 30px 0 30px;
+        margin: 0 0 120px 0;
+    }
+}

@@ -1,0 +1,27 @@
+.LogInH1 {
+    text-align: center;
+}
+
+.InfoH2 {
+    text-align: center;
+}
+
+.FutureP {
+    text-align: center;
+}
+
+.LogInScreen {
+    position: fixed;
+    inset: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(1, 51, 67);
+}
+
+.LogInBox {
+    margin: 300px 0 300px 0;
+}
