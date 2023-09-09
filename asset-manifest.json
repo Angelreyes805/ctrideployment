@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ctrideployment/static/css/main.073c9b0a.css",
+    "main.js": "/ctrideployment/static/js/main.ac4b13b7.js",
+    "static/js/787.e9aa3446.chunk.js": "/ctrideployment/static/js/787.e9aa3446.chunk.js",
+    "static/media/logo.svg": "/ctrideployment/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ctrideployment/index.html",
+    "main.073c9b0a.css.map": "/ctrideployment/static/css/main.073c9b0a.css.map",
+    "main.ac4b13b7.js.map": "/ctrideployment/static/js/main.ac4b13b7.js.map",
+    "787.e9aa3446.chunk.js.map": "/ctrideployment/static/js/787.e9aa3446.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ac4b13b7.js"
+  ]
+}
