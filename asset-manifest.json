@@ -1,16 +1,24 @@
 {
   "files": {
-    "main.css": "/ctrideployment/static/css/main.073c9b0a.css",
-    "main.js": "/ctrideployment/static/js/main.ac4b13b7.js",
+    "main.css": "/ctrideployment/static/css/main.5ff27dfe.css",
+    "main.js": "/ctrideployment/static/js/main.b3e75d7a.js",
     "static/js/787.e9aa3446.chunk.js": "/ctrideployment/static/js/787.e9aa3446.chunk.js",
-    "static/media/logo.svg": "/ctrideployment/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/CTRI_Logo.png": "/ctrideployment/static/media/CTRI_Logo.d03ba274dfcfe14ff5de.png",
+    "static/media/Comprehensive-Services-Icon.png": "/ctrideployment/static/media/Comprehensive-Services-Icon.d2f0ffadb70c5e7a8778.png",
+    "static/media/CTRI CEO Image.jpeg": "/ctrideployment/static/media/CTRI CEO Image.7a6e81898954560f03e0.jpeg",
+    "static/media/Medical-Billing-Example.png": "/ctrideployment/static/media/Medical-Billing-Example.c10042e78bf74c78a8d8.png",
+    "static/media/TwitterIcon.svg": "/ctrideployment/static/media/TwitterIcon.4111b128168c29e5204568aaeabd6931.svg",
+    "static/media/InstagramIcon.svg": "/ctrideployment/static/media/InstagramIcon.7a19015e70544b1c42eb7c80ef468ff0.svg",
+    "static/media/LinkedInIcon.svg": "/ctrideployment/static/media/LinkedInIcon.c74a6de65392526337bf2cde8d6bd476.svg",
     "index.html": "/ctrideployment/index.html",
-    "main.073c9b0a.css.map": "/ctrideployment/static/css/main.073c9b0a.css.map",
-    "main.ac4b13b7.js.map": "/ctrideployment/static/js/main.ac4b13b7.js.map",
+    "static/media/YoutubeIcon.svg": "/ctrideployment/static/media/YoutubeIcon.a9ce7b6f7486cdec58adc4829beaf9e9.svg",
+    "static/media/FacebookIcon.svg": "/ctrideployment/static/media/FacebookIcon.fa8631ec17b730b54b61de6f7c294301.svg",
+    "main.5ff27dfe.css.map": "/ctrideployment/static/css/main.5ff27dfe.css.map",
+    "main.b3e75d7a.js.map": "/ctrideployment/static/js/main.b3e75d7a.js.map",
     "787.e9aa3446.chunk.js.map": "/ctrideployment/static/js/787.e9aa3446.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.ac4b13b7.js"
+    "static/css/main.5ff27dfe.css",
+    "static/js/main.b3e75d7a.js"
   ]
 }
