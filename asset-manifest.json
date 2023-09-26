@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/ctrideployment/static/css/main.52c15772.css",
-    "main.js": "/ctrideployment/static/js/main.5e869db5.js",
+    "main.css": "/ctrideployment/static/css/main.f6dc6eca.css",
+    "main.js": "/ctrideployment/static/js/main.fca47dd5.js",
     "static/js/787.e9aa3446.chunk.js": "/ctrideployment/static/js/787.e9aa3446.chunk.js",
     "static/media/CTRI_Logo.png": "/ctrideployment/static/media/CTRI_Logo.d03ba274dfcfe14ff5de.png",
     "static/media/Comprehensive-Services-Icon.png": "/ctrideployment/static/media/Comprehensive-Services-Icon.d2f0ffadb70c5e7a8778.png",
     "static/media/CTRI CEO Image.jpeg": "/ctrideployment/static/media/CTRI CEO Image.7a6e81898954560f03e0.jpeg",
     "static/media/Medical-Billing-Example.png": "/ctrideployment/static/media/Medical-Billing-Example.c10042e78bf74c78a8d8.png",
     "static/media/Menu_Icon.svg": "/ctrideployment/static/media/Menu_Icon.a2f33eddd58159960f92818113928c4b.svg",
+    "index.html": "/ctrideployment/index.html",
     "static/media/TwitterIcon.svg": "/ctrideployment/static/media/TwitterIcon.4111b128168c29e5204568aaeabd6931.svg",
     "static/media/InstagramIcon.svg": "/ctrideployment/static/media/InstagramIcon.7a19015e70544b1c42eb7c80ef468ff0.svg",
     "static/media/LinkedInIcon.svg": "/ctrideployment/static/media/LinkedInIcon.c74a6de65392526337bf2cde8d6bd476.svg",
-    "index.html": "/ctrideployment/index.html",
     "static/media/YoutubeIcon.svg": "/ctrideployment/static/media/YoutubeIcon.a9ce7b6f7486cdec58adc4829beaf9e9.svg",
     "static/media/FacebookIcon.svg": "/ctrideployment/static/media/FacebookIcon.fa8631ec17b730b54b61de6f7c294301.svg",
-    "main.52c15772.css.map": "/ctrideployment/static/css/main.52c15772.css.map",
-    "main.5e869db5.js.map": "/ctrideployment/static/js/main.5e869db5.js.map",
+    "main.f6dc6eca.css.map": "/ctrideployment/static/css/main.f6dc6eca.css.map",
+    "main.fca47dd5.js.map": "/ctrideployment/static/js/main.fca47dd5.js.map",
     "787.e9aa3446.chunk.js.map": "/ctrideployment/static/js/787.e9aa3446.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.52c15772.css",
-    "static/js/main.5e869db5.js"
+    "static/css/main.f6dc6eca.css",
+    "static/js/main.fca47dd5.js"
   ]
 }
