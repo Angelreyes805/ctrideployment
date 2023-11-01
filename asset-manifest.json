@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1b290ae6.css",
-    "main.js": "/static/js/main.aa0193b9.js",
+    "main.css": "/static/css/main.6cb3bfad.css",
+    "main.js": "/static/js/main.e6b9a0c8.js",
     "static/js/787.e9aa3446.chunk.js": "/static/js/787.e9aa3446.chunk.js",
     "static/media/ProfessionalCounseling.webp": "/static/media/ProfessionalCounseling.54cc3cc25fc7e77a8114.webp",
     "static/media/CTRI_Logo.png": "/static/media/CTRI_Logo.d03ba274dfcfe14ff5de.png",
@@ -15,12 +15,12 @@
     "static/media/LinkedInIcon.svg": "/static/media/LinkedInIcon.c74a6de65392526337bf2cde8d6bd476.svg",
     "static/media/YoutubeIcon.svg": "/static/media/YoutubeIcon.a9ce7b6f7486cdec58adc4829beaf9e9.svg",
     "static/media/FacebookIcon.svg": "/static/media/FacebookIcon.fa8631ec17b730b54b61de6f7c294301.svg",
-    "main.1b290ae6.css.map": "/static/css/main.1b290ae6.css.map",
-    "main.aa0193b9.js.map": "/static/js/main.aa0193b9.js.map",
+    "main.6cb3bfad.css.map": "/static/css/main.6cb3bfad.css.map",
+    "main.e6b9a0c8.js.map": "/static/js/main.e6b9a0c8.js.map",
     "787.e9aa3446.chunk.js.map": "/static/js/787.e9aa3446.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b290ae6.css",
-    "static/js/main.aa0193b9.js"
+    "static/css/main.6cb3bfad.css",
+    "static/js/main.e6b9a0c8.js"
   ]
 }
