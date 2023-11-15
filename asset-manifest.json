@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.6cb3bfad.css",
-    "main.js": "/static/js/main.93d33aa4.js",
+    "main.css": "/static/css/main.f447395e.css",
+    "main.js": "/static/js/main.30bc3a43.js",
     "static/js/787.e9aa3446.chunk.js": "/static/js/787.e9aa3446.chunk.js",
     "static/media/ChronicDiseases_Photo.webp": "/static/media/ChronicDiseases_Photo.3079c5b623f9fe3d4e35.webp",
     "static/media/Social_WellBeing_Photo.webp": "/static/media/Social_WellBeing_Photo.79a8bb5c0c96bea6e262.webp",
@@ -11,6 +11,8 @@
     "static/media/Peer_Mentorship.webp": "/static/media/Peer_Mentorship.305f9ce10b91af0ea9e2.webp",
     "static/media/DietandNutrition.webp": "/static/media/DietandNutrition.9209081337a3f24835c4.webp",
     "static/media/DP_Program.webp": "/static/media/DP_Program.2b95672d96e48ec85051.webp",
+    "static/media/CTRIAwards.webp": "/static/media/CTRIAwards.76ad03329204804772a3.webp",
+    "static/media/InternshipSucess.webp": "/static/media/InternshipSucess.68267dff642353a9c7b0.webp",
     "static/media/ProfessionalCounseling.webp": "/static/media/ProfessionalCounseling.54cc3cc25fc7e77a8114.webp",
     "static/media/CTRI_Logo.png": "/static/media/CTRI_Logo.d03ba274dfcfe14ff5de.png",
     "static/media/Comprehensive-Services-Icon.png": "/static/media/Comprehensive-Services-Icon.d2f0ffadb70c5e7a8778.png",
@@ -23,12 +25,12 @@
     "static/media/LinkedInIcon.svg": "/static/media/LinkedInIcon.c74a6de65392526337bf2cde8d6bd476.svg",
     "static/media/YoutubeIcon.svg": "/static/media/YoutubeIcon.a9ce7b6f7486cdec58adc4829beaf9e9.svg",
     "static/media/FacebookIcon.svg": "/static/media/FacebookIcon.fa8631ec17b730b54b61de6f7c294301.svg",
-    "main.6cb3bfad.css.map": "/static/css/main.6cb3bfad.css.map",
-    "main.93d33aa4.js.map": "/static/js/main.93d33aa4.js.map",
+    "main.f447395e.css.map": "/static/css/main.f447395e.css.map",
+    "main.30bc3a43.js.map": "/static/js/main.30bc3a43.js.map",
     "787.e9aa3446.chunk.js.map": "/static/js/787.e9aa3446.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6cb3bfad.css",
-    "static/js/main.93d33aa4.js"
+    "static/css/main.f447395e.css",
+    "static/js/main.30bc3a43.js"
   ]
 }
