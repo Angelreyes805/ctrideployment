@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f447395e.css",
-    "main.js": "/static/js/main.30bc3a43.js",
+    "main.js": "/static/js/main.82b38bae.js",
     "static/js/787.e9aa3446.chunk.js": "/static/js/787.e9aa3446.chunk.js",
     "static/media/ChronicDiseases_Photo.webp": "/static/media/ChronicDiseases_Photo.3079c5b623f9fe3d4e35.webp",
     "static/media/Social_WellBeing_Photo.webp": "/static/media/Social_WellBeing_Photo.79a8bb5c0c96bea6e262.webp",
@@ -14,8 +14,8 @@
     "static/media/CTRIAwards.webp": "/static/media/CTRIAwards.76ad03329204804772a3.webp",
     "static/media/InternshipSucess.webp": "/static/media/InternshipSucess.68267dff642353a9c7b0.webp",
     "static/media/ProfessionalCounseling.webp": "/static/media/ProfessionalCounseling.54cc3cc25fc7e77a8114.webp",
+    "static/media/Comprehensive-Services-Icon.webp": "/static/media/Comprehensive-Services-Icon.3cb427f4358dd2fe5bee.webp",
     "static/media/CTRI_Logo.png": "/static/media/CTRI_Logo.d03ba274dfcfe14ff5de.png",
-    "static/media/Comprehensive-Services-Icon.png": "/static/media/Comprehensive-Services-Icon.d2f0ffadb70c5e7a8778.png",
     "static/media/CTRI CEO Image.jpeg": "/static/media/CTRI CEO Image.7a6e81898954560f03e0.jpeg",
     "static/media/Medical-Billing-Example.png": "/static/media/Medical-Billing-Example.c10042e78bf74c78a8d8.png",
     "static/media/Menu_Icon.svg": "/static/media/Menu_Icon.a2f33eddd58159960f92818113928c4b.svg",
@@ -26,11 +26,11 @@
     "static/media/YoutubeIcon.svg": "/static/media/YoutubeIcon.a9ce7b6f7486cdec58adc4829beaf9e9.svg",
     "static/media/FacebookIcon.svg": "/static/media/FacebookIcon.fa8631ec17b730b54b61de6f7c294301.svg",
     "main.f447395e.css.map": "/static/css/main.f447395e.css.map",
-    "main.30bc3a43.js.map": "/static/js/main.30bc3a43.js.map",
+    "main.82b38bae.js.map": "/static/js/main.82b38bae.js.map",
     "787.e9aa3446.chunk.js.map": "/static/js/787.e9aa3446.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f447395e.css",
-    "static/js/main.30bc3a43.js"
+    "static/js/main.82b38bae.js"
   ]
 }
